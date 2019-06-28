@@ -1,0 +1,54 @@
+.assignment {
+  margin-top: 10px;
+}
+
+.assignment .switch-text {
+  padding: 10px;
+  font-size: 13px;
+}
+
+.card-main {
+  margin: 20px 0px;
+}
+
+.card-text {
+  margin: 10px 40px;
+}
+
+.card .detail {
+  padding: 1.25rem 50px;
+}
+
+.card-imgage-top {
+  border-radius: 80px;
+  height: 80px;
+  width: 80px;
+}
+
+.worker-detail {
+  text-align: left;
+}
+
+.worker-detail > h5 {
+  margin-bottom: 0px;
+}
+
+.worker-detail .company-name {
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+
+.worker-detail .email {
+  margin-bottom: 0px;
+}
+
+.deadline {
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.deadline > span {
+  float: right;
+  font-size: 12px;
+  margin-top: 10px;
+}
