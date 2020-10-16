@@ -1,6 +1,6 @@
 # README
 
-# WorkLook-Api
+# WorkLook-Frontend
 WorkLook-Frontend lets you create work order and workers. A work order is a job to be completed by one or more workers before its deadline. WorkLook-Frontend provides the facility to assign workers on work orders and retrieve work orders assigned to any worker.
 
 ## System Requirements
